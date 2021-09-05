@@ -8,7 +8,7 @@ All items contained herein remain property of their original creators.
 **This repo will remain static at OpenCore v0.6.9, do not expect these files to be up to date!**
 
 # You should read the [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
-By using this repo's files you are agreeing that **you will not be able to get help on the /r/Hackintosh Discord.**
+###By using this repo's files you are agreeing that **you will not be able to get help on the /r/Hackintosh Discord.**
 
 If you would like help, please follow the guide and create your own OpenCore configuration from scratch.
 
@@ -58,3 +58,6 @@ Instructions: copy `modGRUBShell.efi` to a FAT32 partition and save it under the
 
 ## [MountEFI](https://github.com/corpnewt/MountEFI) errors out! What do I do?
 Update Python to version 2.7.18 at https://www.python.org/ftp/python/2.7.18/python-2.7.18-macosx10.9.pkg
+
+##I want Wi-Fi! What do I buy?
+The [fenvi FV-HB1200](https://www.amazon.com/gp/product/B07T9JD93Y/) worked well in connecting to Wi-Fi (no additional drivers needed) though I could not get AirDrop / Bluetooth functionalities working - there is no USB header on the motherboard to plug into.
