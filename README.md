@@ -3,7 +3,7 @@
 
 A repo containing the OpenCore EFI setup to run OS X Mavericks 10.9.5 on an HP ProDesk 600 G1 SFF.
 
-All items contained herein remain property of their original creators.
+**All items contained herein remain property of their original creators. I do not own or claim to own these materials.**
 
 **This repo will remain static at OpenCore v0.6.9, do not expect these files to be up to date!**
 
