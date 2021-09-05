@@ -8,7 +8,7 @@ All items contained herein remain property of their original creators.
 **This repo will remain static at OpenCore v0.6.9, do not expect these files to be up to date!**
 
 # You should read the [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
-###By using this repo's files you are agreeing that **you will not be able to get help on the /r/Hackintosh Discord.**
+### By using this repo's files you are agreeing that **you will not be able to get help on the /r/Hackintosh Discord.**
 
 If you would like help, please follow the guide and create your own OpenCore configuration from scratch.
 
